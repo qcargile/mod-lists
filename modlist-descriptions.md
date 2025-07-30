@@ -69,6 +69,7 @@
 -   [Cyberpunk 2077](#cyberpunk-2077)
     -   [Cyberpunk THING](#welcome-to-night-city)
     -   [(NSFW) Ultraviolence (NSFW)](#ultraviolence)
+    -   [Chrome and Blood](#chrome-and-blood)
 -   [Baldur's Gate 3](#baldurs-gate-3)
     -   [Listonomicon](#Listonomicon)
     -   [Baldur's Gate 3 Enhanced Edition](#baldurs-Gate-3-Enhanced-Edition)
@@ -929,6 +930,22 @@ Ultraviolence brings you blood, tits and women in a modlist designed to have you
 - Multiple screen archery tools
 - Tweaks to gameplay and balance to make mid to endgame more viable
 - NSFW content in the form of sexy clothes, erotic poses, romance options and the ability to use braindances you can't find at Arasaka Mart
+
+---
+
+### [Chrome and Blood](https://github.com/qcargile/Chrome-Blood/blob/main/README.md)
+
+Chrome & Blood is a hardcore, lore-conscious Cyberpunk 2077 overhaul that reworks nearly every core system, including but not limited to enemy AI and combat, inventory UI, progression, cyberware, weapons, and vehicles. Where similar modlists might focus more heavily on cosmetics / visuals, Chrome & Blood leans into brutal difficulty, meaningful gear choices, and build diversity. Progression and combat systems are tightly tuned to create a high-stakes and deadly Night City experience where upgrades feel earned and death has teeth. It’s an unforgiving overhaul of Night City, where becoming a legend takes more than just chrome.
+
+**_Mods to get familiar with:_**
+
+- [Enemies of Nighty City](https://www.nexusmods.com/cyberpunk2077/mods/8467?tab=description)
+- [Damage Scaling And Balance - Extended](https://www.nexusmods.com/cyberpunk2077/mods/21865)
+- [Reinforcements System](https://www.nexusmods.com/cyberpunk2077/mods/21532)
+- [Chrome Ballistics](https://www.nexusmods.com/cyberpunk2077/mods/22819)
+- [Economy Punk](https://www.nexusmods.com/cyberpunk2077/mods/16952)
+
+**[Find the full mod list here.](https://loadorderlibrary.com/lists/chrome-blood-2)**
 
 ---
 
